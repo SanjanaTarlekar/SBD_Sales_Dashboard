@@ -24,7 +24,7 @@ Data cleansing & transformation (Power Query): handling nulls, correcting data t
 Data modeling: star-schema relationships between Sales fact table and Date/Geography/Product dimension tables
 DAX: measures for sums, distinct counts, and percentage-of-total calculations
 Data visualization: choosing appropriate chart types (donut, stacked bar, map, clustered column) for different analytical questions
-UX/dashboard design: consistent color theming, card-based KPI layout, slicers/filters for end-user interactivity
+dashboard design: consistent color theming, card-based KPI layout, slicers/filters for end-user interactivity
 Geospatial analysis using map visuals.
 
 **Conclusion**
@@ -32,4 +32,4 @@ Geospatial analysis using map visuals.
 The dashboard effectively consolidates multi-dimensional sales data into a single interactive view, allowing stakeholders to quickly assess overall performance (sales, quantity, regional spread) and drill down by time period, geography, market, and product category.
 
 **Link**
-
+https://github.com/SanjanaTarlekar/SBD_Sales_Dashboard/blob/main/SBD_Sales%20Dashboard.png
