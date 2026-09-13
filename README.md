@@ -1,7 +1,7 @@
 # SBD_Sales_Dashboard
 **Overview**
 
-This is an interactive sales performance dashboard "SBD_Sales_Report" built to track and analyze global sales across Markets, Regions, Countries, and Product Categories. It presents 2.86bn in total sales, 11M units sold, across 10 regions and multiple countries (Australia, Brazil, Canada, France, and more), covering an order date range from Jan 2023 to Feb 2026. The report is spread across two pages — SBD_Sales_report and SBD_Status — enabling both a sales overview.
+This is an interactive sales performance dashboard "SBD_Sales_Report" built to track and analyze global sales across Markets, Regions, Countries, and Product Categories. It presents 2.86bn in total sales, 11M units sold, across 10 regions and multiple countries (Australia, Brazil, Canada, France, and more), covering an order date range from Jan 2023 to Feb 2026.
 
 **Tool Used**
 
